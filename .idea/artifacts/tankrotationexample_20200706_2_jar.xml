@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tankrotationexample-20200706 2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tankrotationexample_20200706_2_jar</output-path>
+    <root id="archive" name="tankrotationexample-20200706 2.jar">
+      <element id="module-output" name="out" />
+      <element id="module-output" name="tankrotationexample-20200706" />
+    </root>
+  </artifact>
+</component>

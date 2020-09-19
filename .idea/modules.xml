@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tankrotationexample-20200706/out/out.iml" filepath="$PROJECT_DIR$/tankrotationexample-20200706/out/out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tankrotationexample-20200706/tankrotationexample-20200706.iml" filepath="$PROJECT_DIR$/tankrotationexample-20200706/tankrotationexample-20200706.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tankrotationexample-20200706 2.iml" filepath="$PROJECT_DIR$/.idea/tankrotationexample-20200706 2.iml" />
+    </modules>
+  </component>
+</project>
